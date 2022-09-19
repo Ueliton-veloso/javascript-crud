@@ -1,5 +1,11 @@
 # A simple CRUD application with Javascript and Mysql 
 
+## Required
+* Mysql Server 
+* Node.js
+<br>
+ 
+
 ## Getting Started
    
       npm update
@@ -39,11 +45,19 @@
 ## Start
     node app.js
       
- 
-## Required
-* Mysql Server 
-* Node.js
- 
+<div>
+   <img style="width:500px;" src="https://user-images.githubusercontent.com/101071189/191138816-2b81730d-2d81-4498-8429-d4d03f82cfda.png">
+</div>
+    
+    
+    
+    
+    
+
+    
+      
+
+
  
  
 
