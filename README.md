@@ -3,7 +3,7 @@ Simple CRUD
 
 Getting Started
    
-   npm update
+      npm update
 
 
 
