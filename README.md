@@ -21,7 +21,7 @@ Simple CRUD
 * TABLENAME
 
 <div>
-   <img style="width:500px;" src="https://user-images.githubusercontent.com/101071189/191123075-3a63a3d1-5e7c-4e38-b84b-8e9c2ef164af.png">
+   <img style="width:500px;" src="https://user-images.githubusercontent.com/101071189/191133352-1f337446-d278-48f7-b359-d7c65a9412a8.png">
 </div>
 
 
