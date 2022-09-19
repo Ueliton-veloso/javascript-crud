@@ -1,7 +1,7 @@
 # Javascript CRUD with Mysql
 Simple CRUD
 
-Getting Started
+*Getting Started
    
       npm update
 
