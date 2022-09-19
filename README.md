@@ -1,2 +1,2 @@
-# Javascript-CRUD and Mysql
+# Javascript CRUD with Mysql
 Simple CRUD
