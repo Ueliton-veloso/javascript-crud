@@ -7,8 +7,8 @@ Simple CRUD
 
 
 
-# Required
- Mysql Server
+## Required
+* Mysql Server
  
  Node
  
