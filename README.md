@@ -13,7 +13,7 @@
 ## Config Connecting to a database
 <br>
 
-* Uncomment only once to create the table Path:"<strong>./models/Pament.js"
+* Uncomment only once to create the table Path:"<strong>./models/Payment.js"
   //Pagamento.sync({force: true});</strong>
   
 
@@ -25,7 +25,7 @@
 
 #
 
-* TABLE NAME <strong>PATH: "./models/payment.js"</strong>
+* TABLE NAME <strong>PATH: "./models/Payment.js"</strong>
  <br>
 
 <div>
