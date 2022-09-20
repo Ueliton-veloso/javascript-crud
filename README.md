@@ -1,4 +1,4 @@
-# A simple CRUD application with Javascript and Mysql 
+# CRUD application with Javascript and Mysql 
 
 ## Required
 * Mysql Server 
